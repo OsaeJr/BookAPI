@@ -1,1 +1,1 @@
-A book apiin dotnet` performing all CRUD operations
+A book api in dotnet performing all CRUD operations
